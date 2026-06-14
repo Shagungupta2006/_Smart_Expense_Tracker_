@@ -1,0 +1,8 @@
+Date,Type,Category,Amount,Description,Payment Method
+2026-06-13,Income,Other,3000.0,salary,UPI
+2026-06-18,Expense,Food,0.0,,Cash
+2026-06-18,Expense,Travel,100.0,clg,Cash
+2026-06-10,Income,Salary,0.0,,Cash
+2026-06-10,Income,Salary,4000.0,nan,Bank Transfer
+
+
